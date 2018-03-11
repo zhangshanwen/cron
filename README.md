@@ -1,2 +1,0 @@
-# cron
-cron  on linux 
